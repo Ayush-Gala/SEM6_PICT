@@ -16,3 +16,8 @@ Tasks:  a) Scan for missing values and inconsistencies. Use suitable techniques 
 	b) Scan numeric variables for outliers. Use any of the suitable techniques to deal with them.
 	c) Apply data transformations on one of the variables. Change the scale for better understanding of 		the variable, convert non-linear relations into linear, decrease the skewness and convert 		distribution into normal distribution.
 	
+Assignment 3: Descriptive Statistics
+Dataset: Adult Income dataset & Iris dataset from Kaggle
+Tasks: a) Provide summary stats for a dataset with numeric variables grouped by one of the qualitative variables. Create a list that contains a numeric value for each response of the categorical variable.
+	b) Display basic stats like percentile, mean and std grouped by species of the Iris dataset.
+	
