@@ -43,8 +43,5 @@ public class Assignment1 {
         System.out.println();
 
         sc.close();
-
-
     }
-
 }
